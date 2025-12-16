@@ -1,0 +1,1 @@
+This project implements an Assessment Recommendation Engine that matches job descriptions with SHL assessments using TF-IDF vectorization and cosine similarity. A FastAPI-based REST API allows users to submit job descriptions and receive ranked assessment recommendations with relevant URLs.
